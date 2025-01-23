@@ -1,0 +1,6 @@
+{
+    "scripts": {
+      "start": "concurrently \"npm start --prefix api\" \"npm start --prefix front/hello-react\""
+    }
+  }
+  
